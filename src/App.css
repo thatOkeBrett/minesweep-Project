@@ -40,7 +40,7 @@ table {
 }
 
 td {
-  background-color: rgb(68, 122, 68);
+  background-color: blue;
   border-bottom: 4px solid grey;
   border-right: 4px solid grey;
   border-top: 4px solid lightgray;
@@ -66,4 +66,8 @@ p {
   color: rgb(216, 0, 0) !important;
   font-size: 30px;
   padding: 0px;
+}
+
+h1{
+  text-align: center;
 }
